@@ -8,4 +8,4 @@
 
 ### Numpy, Pandas, Matplotlib et d'autres libraires nécessaires à l'import et l'export des données.
 
-### Cliquer sur [ce lien](https://github.com/miraxsd/AnalyseDonnees/blob/main/Analyse%20des%20données.ipynb) pour accéder au fichier Jupyter contenant une belle présentation du projet
+### Cliquez sur [ce lien](https://github.com/miraxsd/AnalyseDonnees/blob/main/Analyse%20des%20données.ipynb) pour accéder au fichier Jupyter contenant une belle présentation du projet
